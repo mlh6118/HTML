@@ -1,10 +1,21 @@
+body{
+    background-image: url("https://img.grouponcdn.com/deal/27sc7juBCt22WMBtQFKQ1meUr5Dj/27-2048x1229/v1/c870x524.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.25;
+
+}
+
+.foreground-img{
+    opacity: 1;
+}
+
 h1{
     text-align: center;
     font-family: serif;
-    height: 200;
+    height: 150px;
+    color: white;
 }
 
-body h1{
-    background-image: url("https://img.grouponcdn.com/deal/27sc7juBCt22WMBtQFKQ1meUr5Dj/27-2048x1229/v1/c870x524.webp");
-}
 
